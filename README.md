@@ -1,11 +1,8 @@
                                                        DAY - 2
 
 
-# Project Title
+# TASK Title
 ## Noise Complaint Insights from Urban Data
-
-### Track
-AI/ML Engineering Internship (Top 10 PPO Challenge)
 
 ---
 
@@ -41,5 +38,13 @@ Perform insightful, visually-driven EDA to uncover:
 
 ---
 
-
+#Histograms + Boxplots GRAPHS :Overview Throgh the Graph
 ![Screenshot (61)](https://github.com/user-attachments/assets/c192c808-d76f-422a-a4e9-5da77fff2ee1)
+#The data shows patterns of noise, population, and roads. Most complaints and noise levels are low to moderate, population density varies greatly, and roads are mostly few but occasionally clustered.
+
+#Pairplot + Correlation Matrix
+![Screenshot (60)](https://github.com/user-attachments/assets/58dea8b1-21af-43b9-84a0-67d36c211843)
+![Screenshot (59)](https://github.com/user-attachments/assets/8c3d3f1a-9eaf-4975-9f7a-e9c6bb78bede)
+#Final Insight:Only Noise Levels (Noise_dB) have a clear influence on the number of complaints.Other features (roads, population, greenery) do not strongly impact complaints directly.
+
+
